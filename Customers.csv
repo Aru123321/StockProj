@@ -1,0 +1,4 @@
+ID,Name,username,password,unProfits,Profits,PaccountID,Stocks,Options
+1,Aleks Seku,aleks,cs611,0,0,123,[AAPL:3; AMD:2],FALSE
+2,Boyang Liu,bo,liu,0,0,456,[META:6; F:2],TRUE
+3,Aru Pandey,aru,swing,0,0,789,[AMD:3; META:5],FALSE

@@ -1,0 +1,7 @@
+.idea
+CS611-Final-Portfolio-Stock-System.iml
+/out/
+slf4j-api-1.7.36.jar
+sqlite-jdbc-3.44.1.0.jar
+Database/StockMarket.db
+
